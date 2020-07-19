@@ -15,7 +15,6 @@ export default {
   },
   methods:{
     changing(e){
-      console.log("hi");
       this.myinput = e.target.value;
     }
   }
